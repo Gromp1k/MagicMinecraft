@@ -1,0 +1,5 @@
+name: MagicMineraft
+version: '${project.version}'
+main: g1kplugins.magicmineraft.MagicMineraft
+api-version: 1.19
+authors: [ Gromp1k ]
